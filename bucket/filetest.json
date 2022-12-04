@@ -1,5 +1,5 @@
 {
-    "version": "1.0.4",
-    "url": "https://staticfilervdw.blob.core.windows.net/data/test.ps1",
-    "bin": "powershell -executionpolicy bypass -file test.ps1" 
+    "version": "1.0.5",
+    "url": "https://raw.githubusercontent.com/rvdwegen/Powershell/main/test.ps1",
+    "bin": "test.ps1" 
 }
