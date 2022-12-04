@@ -1,0 +1,20 @@
+{
+    "version": "1.0.0",
+    "description": "Test package.",
+    "homepage": "https://domain.tld",
+    "license": {
+        "identifier": "n/a",
+        "url": "https://domain.tld"
+    },
+    "architecture": {
+        "64bit": {
+            "url": "https://staticfilervdw.blob.core.windows.net/data/test.ps1",
+            "hash": "214B52FCB4CB4401DA31151ECE9B1A54294B4489EC685C3620D4C5BFB06220AD"
+        },
+        "32bit": {
+            "url": "https://staticfilervdw.blob.core.windows.net/data/test.ps1",
+            "hash": "214B52FCB4CB4401DA31151ECE9B1A54294B4489EC685C3620D4C5BFB06220AD"
+        }
+    },
+    "bin": "test.ps1" 
+}
